@@ -26,15 +26,6 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
-    },
     "dependencies": {
         "bootstrap": "5.2.3"
     },
